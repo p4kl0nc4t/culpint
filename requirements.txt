@@ -7,7 +7,7 @@ click==8.0.3
 Deprecated==1.2.13
 dicttoxml==1.7.4
 dnspython==1.16.0
-eventlet==0.30.0
+eventlet==0.31.0
 flasgger==0.9.5
 Flask==2.0.2
 Flask-RESTful==0.3.9
